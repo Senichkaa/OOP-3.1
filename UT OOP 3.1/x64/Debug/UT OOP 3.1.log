@@ -1,0 +1,5 @@
+﻿  UT OOP 3.1.cpp
+C:\Users\hp\source\repos\OOP 3.1\OOP 3.1\Traid.cpp(1,1): warning C4103: выравнивание изменилось после включения заголовка, возможно из-за отсутствия директивы #pragma pack(pop)
+C:\Users\hp\source\repos\OOP 3.1\UT OOP 3.1\UT OOP 3.1.cpp(3,1): warning C4103: выравнивание изменилось после включения заголовка, возможно из-за отсутствия директивы #pragma pack(pop)
+     Создается библиотека C:\Users\hp\source\repos\OOP 3.1\x64\Debug\UT OOP 3.1.lib и объект C:\Users\hp\source\repos\OOP 3.1\x64\Debug\UT OOP 3.1.exp
+  UT OOP 3.1.vcxproj -> C:\Users\hp\source\repos\OOP 3.1\x64\Debug\UT OOP 3.1.dll
